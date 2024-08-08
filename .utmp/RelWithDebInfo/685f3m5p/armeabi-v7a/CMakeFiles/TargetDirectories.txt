@@ -1,0 +1,5 @@
+C:/2nd semester-3rd year/Unity/Platformer/.utmp/RelWithDebInfo/685f3m5p/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/2nd semester-3rd year/Unity/Platformer/.utmp/RelWithDebInfo/685f3m5p/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/2nd semester-3rd year/Unity/Platformer/.utmp/RelWithDebInfo/685f3m5p/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/2nd semester-3rd year/Unity/Platformer/.utmp/RelWithDebInfo/685f3m5p/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/2nd semester-3rd year/Unity/Platformer/.utmp/RelWithDebInfo/685f3m5p/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
